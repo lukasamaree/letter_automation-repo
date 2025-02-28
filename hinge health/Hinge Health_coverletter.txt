@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Healthcare Data Analyst position at Hinge Health in San Francisco, California. With a strong educational background in Data Science, including coursework in Statistics and Data Analysis, and hands-on experience as a Data Scientist at UCSF Radiology/Oncology Cancer Research, I am confident in my ability to contribute effectively to your team.
+
+During my internship, I fine-tuned a BERT model to predict hospital readmissions based on doctor notes, achieving an impressive ROC AUC score of 0.71. Additionally, I utilized LLMs for literature mining to expand the PhosphoAtlas database, integrating diverse sources to simulate protein-protein interactions using graph neural networks (GNNs). These experiences have equipped me with the skills to identify therapeutically actionable kinase networks, contributing to the development of targeted cancer therapies.
+
+In my role as a Lung Cancer RNA Sequencing Analyst at the University of California, Irvine, I cleaned and visualized large datasets using techniques such as violin plots, PCA, and k-means clustering. Through this work, I discovered different cells lung carcinoma differentiates into and identified how these cells communicate with one another through cell signaling pathways.
+
+Furthermore, my project experience, such as developing an ETL pipeline to identify undervalued stocks based on key financial metrics and designing a schema for a football SQL database project, showcases my proficiency in data manipulation, analysis, and visualization.
+
+I am particularly excited about the opportunity at Hinge Health because of the company's innovative approach to healthcare and commitment to improving patient outcomes. I am eager to bring my analytical skills, statistical knowledge, and passion for data-driven insights to contribute to the impactful work being done at Hinge Health.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background, skills, and enthusiasm align with the needs of your team. Please feel free to contact me at [Email] or [Phone] to schedule a meeting.
+
+Warm regards,
+
+Lukas Amare
